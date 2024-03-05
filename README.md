@@ -59,7 +59,7 @@ The Dockerfile sets up a Node.js environment and installs dependencies.
 
 ## Jenkins Pipeline
 
-The Jenkins pipeline automates the build and deployment process.
+If you want jenkins pipeline trigger automatically and build when you push code to github, you can refer [this guide](https://github.com/Dev-Pradeep-NS/Documentation/tree/main/Setting%20up%20webhooks%20for%20jenkins%20pipeline%20to%20trigger%20automatically) to make that happen.
 
 ## Usage
 
